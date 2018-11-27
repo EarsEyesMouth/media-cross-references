@@ -23,6 +23,8 @@
 ## D
 
 - Daily Active User，日活跃量（DAU），用于反应网站、互联网应用或网络游戏的运营情况。
+- DMP，数据管理平台（Data-Management Platform）
+- DSP，需求方平台（Demand-Side Platform）
 
 ## L
 
@@ -50,6 +52,10 @@
 - Professional User Generated Content，船业用户生产内容（PUGC）
 - PUGC，专业用户生产内容（Professional User Generated Content）
 
+## R
+
+- RTB，实时竞价（RealTime Bidding）
+
 ## S
 
 - Search Engine，搜索引擎（SE）
@@ -57,6 +63,7 @@
 - Search Engine Optimization，搜索引擎优化（SEO）
 - SNS，社会性网络服务（Social Networking Services）
 - Social Networking Services，社会性网络服务（SNS）
+- SSP，供应方平台（Sell-Side Platform）
 - Subscription，订阅
 
 ## U
